@@ -5,7 +5,6 @@ public class Main {
         double height = 1.87;
         int index = service.calculate(bodyWeight, height);
         System.out.println(index);
-
     }
 }
 
